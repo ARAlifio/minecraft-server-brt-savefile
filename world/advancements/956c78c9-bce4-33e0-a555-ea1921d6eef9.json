@@ -1,0 +1,10 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_cold_ocean": "2020-11-09 04:22:26 +0000",
+      "minecraft:plains": "2020-11-09 04:20:54 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2580
+}
