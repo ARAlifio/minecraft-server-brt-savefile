@@ -1,114 +1,41 @@
-[01:57:44] [Server thread/INFO]: Viratram[/180.249.117.146:17227] logged in with entity id 858843 at (-543.0088196945535, 77.17496700306448, 208.05017010524116)
-[01:57:44] [Server thread/INFO]: Viratram joined the game
-[01:58:21] [Server thread/INFO]: Viratram lost connection: Timed out
-[01:58:21] [Server thread/INFO]: Viratram left the game
-[01:58:24] [Server thread/INFO]: Viratram[/180.249.117.146:30428] logged in with entity id 859009 at (-541.0482279984542, 63.0, 196.50197147871089)
-[01:58:24] [Server thread/INFO]: Viratram joined the game
-[01:59:03] [Server thread/INFO]: Viratram lost connection: Timed out
-[01:59:03] [Server thread/INFO]: Viratram left the game
-[01:59:08] [Server thread/INFO]: Viratram[/180.249.117.146:32204] logged in with entity id 859195 at (-529.8076020985001, 64.0625, 147.20080556308812)
-[01:59:08] [Server thread/INFO]: Viratram joined the game
-[01:59:30] [Server thread/INFO]: Villager bfg['Mason'/786737, l='ServerLevel[world]', x=-333.55, y=67.94, z=69.25] died, message: 'Mason fell out of the world'
-[01:59:30] [Server thread/INFO]: [Viratram: Killed 151 entities]
-[01:59:44] [Server thread/INFO]: Viratram lost connection: Timed out
-[01:59:44] [Server thread/INFO]: Viratram left the game
-[02:00:07] [Server thread/INFO]: Viratram[/103.10.67.164:8291] logged in with entity id 859521 at (-539.3901364028935, 64.0625, 146.95502713884042)
-[02:00:07] [Server thread/INFO]: Viratram joined the game
-[02:21:43] [Server thread/INFO]: [Viratram: Killed 121 entities]
-[02:21:55] [Server thread/INFO]: [Viratram: Killed 197 entities]
-[02:31:32] [Server thread/WARN]: Viratram moved too quickly! 3.8349222286848317,0.0,-10.150728941045784
-[02:31:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[02:41:33] [Server thread/WARN]: Viratram moved too quickly! -9.412581539337452,0.0,5.2477253194110745
-[02:46:42] [Server thread/INFO]: Viratram lost connection: Disconnected
-[02:46:42] [Server thread/INFO]: Viratram left the game
-[05:48:46] [Server thread/INFO]: Viratram[/223.255.228.99:21904] logged in with entity id 875611 at (-296.95363717980666, 71.88174810120331, 6.044877601402648)
-[05:48:46] [Server thread/INFO]: Viratram joined the game
-[05:51:47] [Server thread/INFO]: Mingtaros[/139.192.14.171:59126] logged in with entity id 876627 at (-411.8767669586214, 79.0, 208.48009212808725)
-[05:51:47] [Server thread/INFO]: Mingtaros joined the game
-[05:51:55] [Server thread/INFO]: <Viratram> urg udh nambahin lampu tadi pagi
-[05:51:56] [Server thread/INFO]: [Mingtaros: Set the time to 1000]
-[05:52:01] [Server thread/INFO]: [Mingtaros: Teleported Mingtaros to Viratram]
-[05:52:05] [Server thread/INFO]: <Mingtaros> waw
-[05:52:10] [Server thread/INFO]: [Viratram: Set the time to 13000]
-[05:52:11] [Server thread/INFO]: <Mingtaros> looks programmed
-[05:52:20] [Server thread/INFO]: <Viratram> bruh
-[05:52:24] [Server thread/INFO]: <Mingtaros> dscord dit
-[05:52:27] [Server thread/INFO]: <Viratram> oke
-[05:55:02] [Server thread/INFO]: [Viratram: Teleported Viratram to Mingtaros]
-[05:56:01] [Server thread/INFO]: Viratram lost connection: Timed out
-[05:56:01] [Server thread/INFO]: Viratram left the game
-[05:56:11] [Server thread/INFO]: Viratram[/103.10.67.153:56495] logged in with entity id 877538 at (-418.3123655315207, 47.0, 153.2677575186481)
-[05:56:11] [Server thread/INFO]: Viratram joined the game
-[05:56:28] [Server thread/INFO]: [Viratram: Teleported Viratram to Mingtaros]
-[05:57:11] [Server thread/INFO]: Viratram has made the advancement [Suit Up]
-[05:57:14] [Server thread/WARN]: Trying to add entity with duplicated UUID 47ce386b-266a-4cc1-9b34-c04bf8561381. Existing minecraft:armor_stand#877708, new: minecraft:armor_stand#877708
-[05:57:38] [Server thread/WARN]: Trying to add entity with duplicated UUID 1926d8a9-6369-40eb-92b3-733c8f9976d7. Existing minecraft:armor_stand#877734, new: minecraft:armor_stand#877734
-[05:57:40] [Server thread/WARN]: Trying to add entity with duplicated UUID f794c3b8-74f0-4251-b24d-4918c90820e6. Existing minecraft:armor_stand#877740, new: minecraft:armor_stand#877740
-[05:59:14] [Server thread/WARN]: Trying to add entity with duplicated UUID f08c4397-5c67-4474-a9c9-4c09142c8814. Existing minecraft:armor_stand#877924, new: minecraft:armor_stand#877924
-[05:59:20] [Server thread/WARN]: Trying to add entity with duplicated UUID 3f636c13-9b34-4c4c-995e-36766db9195b. Existing minecraft:armor_stand#877961, new: minecraft:armor_stand#877961
-[05:59:24] [Server thread/WARN]: Trying to add entity with duplicated UUID e0f37de6-9fbf-403d-af47-45e7f84f0521. Existing minecraft:armor_stand#877962, new: minecraft:armor_stand#877962
-[06:06:15] [Server thread/INFO]: [Mingtaros: Successfully filled 871 blocks]
-[06:08:54] [Server thread/INFO]: [Mingtaros: Teleported Mingtaros to Viratram]
-[06:08:54] [Server thread/WARN]: Mingtaros moved too quickly! 2.509073608208041,19.771878583990784,-13.569805929775399
-[06:17:02] [Server thread/INFO]: [Mingtaros: Successfully filled 1064 blocks]
-[06:31:03] [Server thread/INFO]: [Mingtaros: Teleported Mingtaros to Viratram]
-[06:31:03] [Server thread/WARN]: Mingtaros moved too quickly! 25.124860032939864,-7.648455801113826,15.197518296643551
-[06:54:34] [Server thread/WARN]: Viratram moved too quickly! 10.06952114712601,0.0,0.46362670679442886
-[06:54:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2148ms or 42 ticks behind
-[06:55:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
-[06:55:31] [Server thread/WARN]: Viratram moved too quickly! 0.3058969368008775,3.6352438026915763,9.352522337641034
-[06:55:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13091ms or 261 ticks behind
-[06:55:59] [Server thread/WARN]: Mingtaros moved too quickly! 3.136803099152189,0.0,-9.513344188314989
-[06:56:31] [Server thread/WARN]: Viratram moved too quickly! -1.9085396653437101,1.6746231494888235,-9.722301063420986
-[06:56:32] [Server thread/WARN]: Mingtaros moved too quickly! -9.97367018221064,1.856608278574953,-1.5884780838648567
-[06:57:05] [Server thread/WARN]: Viratram moved too quickly! 1.1684531595169574,-4.534396734644986,-8.96077242592068
-[06:58:18] [Server thread/WARN]: Viratram moved too quickly! -1.4700109583467338,1.4917766593418662,10.025548316117721
-[06:58:32] [Server thread/INFO]: Mingtaros lost connection: Disconnected
-[06:58:34] [Server thread/INFO]: Mingtaros left the game
-[06:58:13] [Server Watchdog/FATAL]: A single server tick took 60.19 seconds (should be max 0.05)
-[06:58:53] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[06:59:13] [Server thread/INFO]: Viratram lost connection: Disconnected
-[06:59:15] [Server thread/INFO]: Viratram left the game
-[07:39:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@3d3d36cd[id=<null>,name=Mingtaros,properties={},legacy=false] (/139.192.14.171:59407) lost connection: Disconnected
-[07:39:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@2e053687[id=<null>,name=Viratram,properties={},legacy=false] (/103.10.67.153:56497) lost connection: Disconnected
-[07:39:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@6e9395d3[id=<null>,name=Mingtaros,properties={},legacy=false] (/139.192.14.171:59411) lost connection: Disconnected
-[07:39:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@3afc4bb[id=<null>,name=Viratram,properties={},legacy=false] (/103.10.67.153:56498) lost connection: Disconnected
-[07:39:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2618595ms or 52371 ticks behind
-[07:39:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4298ms or 85 ticks behind
-[07:40:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[07:41:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 47279ms or 945 ticks behind
-[07:41:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22811ms or 456 ticks behind
-[07:42:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2612ms or 52 ticks behind
-[07:42:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2535ms or 50 ticks behind
-[07:42:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2497ms or 49 ticks behind
-[07:43:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6934ms or 138 ticks behind
-[07:45:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 114620ms or 2292 ticks behind
-[07:48:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 180530ms or 3610 ticks behind
-[07:50:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 86102ms or 1722 ticks behind
-[07:50:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18004ms or 360 ticks behind
-[07:51:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22659ms or 453 ticks behind
-[07:52:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31590ms or 631 ticks behind
-[07:55:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 180336ms or 3606 ticks behind
-[07:59:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 226673ms or 4533 ticks behind
-[08:00:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 39313ms or 786 ticks behind
-[08:01:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 73564ms or 1471 ticks behind
-[08:02:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7113ms or 142 ticks behind
-[08:02:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13315ms or 266 ticks behind
-[08:05:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 155136ms or 3102 ticks behind
-[08:07:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 92875ms or 1857 ticks behind
-[08:09:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 96816ms or 1936 ticks behind
-[08:11:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 121898ms or 2437 ticks behind
-[08:12:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24450ms or 489 ticks behind
-[08:12:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25629ms or 512 ticks behind
-[08:13:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9648ms or 192 ticks behind
-[08:15:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 124534ms or 2490 ticks behind
-[08:20:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 264731ms or 5294 ticks behind
-[08:21:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 44393ms or 887 ticks behind
-[08:23:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 126349ms or 2526 ticks behind
-[08:24:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24193ms or 483 ticks behind
-[08:25:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 77104ms or 1542 ticks behind
-[08:26:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 52172ms or 1043 ticks behind
-[08:27:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 37453ms or 749 ticks behind
-[08:28:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20829ms or 416 ticks behind
-[08:31:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 151234ms or 3024 ticks behind
-[08:36:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 303275ms or 6065 ticks behind
+[14:16:17] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:16:19] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:16:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:16:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:16:19] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:16:19] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:16:19] [main/INFO]: Reloading ResourceManager: Default
+[14:16:21] [Worker-Main-2/INFO]: Loaded 7 recipes
+[14:16:22] [Worker-Main-2/INFO]: Loaded 927 advancements
+[14:16:27] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[14:16:27] [Server thread/INFO]: Loading properties
+[14:16:27] [Server thread/INFO]: Default game type: CREATIVE
+[14:16:27] [Server thread/INFO]: Generating keypair
+[14:16:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:16:28] [Server thread/INFO]: Using epoll channel type
+[14:16:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:16:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:16:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:16:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:16:28] [Server thread/INFO]: Preparing level "world"
+[14:16:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:16:34] [Server thread/INFO]: Preparing spawn area: 0%
+[14:16:34] [Server thread/INFO]: Preparing spawn area: 0%
+[14:16:34] [Server thread/INFO]: Preparing spawn area: 0%
+[14:16:34] [Server thread/INFO]: Preparing spawn area: 0%
+[14:16:34] [Server thread/INFO]: Preparing spawn area: 0%
+[14:16:34] [Server thread/INFO]: Preparing spawn area: 0%
+[14:16:34] [Server thread/INFO]: Preparing spawn area: 0%
+[14:16:34] [Server thread/INFO]: Preparing spawn area: 0%
+[14:16:34] [Server thread/INFO]: Preparing spawn area: 0%
+[14:16:34] [Server thread/INFO]: Preparing spawn area: 0%
+[14:16:34] [Server thread/INFO]: Preparing spawn area: 0%
+[14:16:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:16:35] [Server thread/INFO]: Preparing spawn area: 25%
+[14:16:36] [Server thread/INFO]: Time elapsed: 6920 ms
+[14:16:36] [Server thread/INFO]: Done (7.111s)! For help, type "help"
+[14:18:31] [Server thread/INFO]: ARAlifio[/36.71.233.87:26265] logged in with entity id 69 at (-548.1259157640258, 63.0, 197.75339046469605)
+[14:18:31] [Server thread/INFO]: ARAlifio joined the game
+[14:18:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[14:18:58] [Server thread/INFO]: ARAlifio lost connection: Disconnected
+[14:18:58] [Server thread/INFO]: ARAlifio left the game
