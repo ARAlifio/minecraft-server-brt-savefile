@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "e643dfd4-14ad-3525-b604-9f58c36820c9",
+    "name": "ARAlifio",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
